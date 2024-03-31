@@ -23,3 +23,5 @@
 cd DIRECTEDRICCIFLOW/DirectedRicciFLow/
 ./doit.sh
 ```
+
+![基于有向图上Ricci流的社区检测](https://github.com/fexas/DIRECTEDRICCIFLOW/blob/main/gif/ricci-flow-animation.gif)
