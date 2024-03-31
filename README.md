@@ -11,7 +11,7 @@
 
 ​	2.基于上述曲率定义了有向图上的Ricci flow，且证明其对应微分方程租解的存在性。
 
-​	3.证明了有向图上Lin-Lu-Yau Ricci曲率存在基于$*$-耦合（$*$​-coupling）的形式
+​	3.证明了有向图上Lin-Lu-Yau Ricci曲率存在基于*-耦合（*​-coupling）的形式
 
 ​	4.定义了离散化的Ricci flow，为后续的应用奠定基础
 
